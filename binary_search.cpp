@@ -1,5 +1,4 @@
 #include <iostream>
-#include <stdio.h>
 #define num_elements 10 //Define the size of the array
 
 using namespace std;
